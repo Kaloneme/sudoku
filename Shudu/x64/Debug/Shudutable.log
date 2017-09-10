@@ -1,0 +1,6 @@
+﻿  Shudu.cpp
+  main.cpp
+c:\users\吴松青\sudoku\shudu\main.cpp(10): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  Shudutable.vcxproj -> C:\Users\吴松青\sudoku\Shudu\x64\Debug\Shudutable.exe
+  Shudutable.vcxproj -> C:\Users\吴松青\sudoku\Shudu\x64\Debug\Shudutable.pdb (Partial PDB)
